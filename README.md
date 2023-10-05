@@ -27,10 +27,12 @@ Even though my GitHub might look a little empty right now, I'm constantly explor
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakelequire/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jakelequire)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacoblequire@outlook.com)
 
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/jakelequire/
+[twitter]: https://twitter.com/Jake_LeQuire_
 [email]: mailto:jacoblequire@outlook.com
