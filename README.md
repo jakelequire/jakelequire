@@ -1,11 +1,11 @@
 ## Hi there 👋
 I'm a self-taught software developer with a passion for coding and a knack for problem-solving. My journey has taken me through various languages and technologies, including TypeScript,  JavaScript, C, and Web Development. Despite having few public projects, I've amassed significant experience through personal my projects. Here are a few highlights:
 
-- Web Development: Proficient in building responsive and dynamic web applications.
+- **Web Development:** Proficient in building responsive and dynamic web applications.
 
-- Programming Languages: Strong command over TypeScript and JavaScript. Familiar with C, C++, Rust, and Go.
+- **Programming Languages:** Strong command over TypeScript and JavaScript. Familiar with C, C++, Rust, and Go.
 
-- Software Engineering: Experienced in designing, developing, and debugging software solutions in low and high-level languages.
+- **Software Engineering:** Experienced in designing, developing, and debugging software solutions in low and high-level languages.
 
 I'm always eager to learn and collaborate on interesting projects. Feel free to explore my repositories and reach out for any collaboration opportunities.
 
