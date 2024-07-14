@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a self-taught software developer with a passion for coding and a knack for problem-solving. My journey has taken me through various languages and technologies, including TypeScript,  JavaScript, C, and Web Development. Despite having few public projects, I've amassed significant experience through personal my projects. Here are a few highlights:
+I'm a self-taught software developer with a passion for coding and a knack for problem-solving. My journey has taken me through various languages and technologies, including TypeScript,  JavaScript, C/C++, and more. Despite having few public projects, I've amassed significant experience through personal my projects. Here are a few highlights:
 
 - **Web Development:** Proficient in building responsive and dynamic web applications.
 
