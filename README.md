@@ -1,49 +1,52 @@
-## Hi there 👋
-I'm a self-taught software developer with a passion for coding and a knack for problem-solving. My journey has taken me through various languages and technologies, including TypeScript,  JavaScript, C/C++, and more. Despite having few public projects, I've amassed significant experience through personal my projects. Here are a few highlights:
+<h1 align="center">Jake Lequire</h1>
 
-- **Web Development:** Proficient in building responsive and dynamic web applications.
+<p align="center">
+  Systems programmer & compiler engineer  &nbsp;·&nbsp; Based in Washington State
+</p>
 
-- **Programming Languages:** Strong command over TypeScript and JavaScript. Familiar with C, C++, Rust, and Go.
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakelequire/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jakelequire)
+  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacoblequire@outlook.com)
+</p>
 
-- **Software Engineering:** Experienced in designing, developing, and debugging software solutions in low and high-level languages.
+---
 
-I'm always eager to learn and collaborate on interesting projects. Feel free to explore my repositories and reach out for any collaboration opportunities.
-
-
-
-## 🛠️ My Tech Stack
-
-### **Languages:**
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### **Frameworks:**
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-- ![LLVM](https://img.shields.io/badge/-LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
-
-### **Databases:**
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### About
 
 
-### 📫 How to reach me:
+I started in web development, which taught me how to ship. At some point the abstractions stopped being enough, and I found myself wanting to understand what was actually happening underneath the hood, so I kept going down. These days I spend most of my time in systems programming: writing compilers, dev tooling, and building low-level software. I love learning new things, and I’m always looking for interesting problems to solve.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakelequire/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jakelequire)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacoblequire@outlook.com)
+---
 
+### Featured Work
 
-<br />
+#### [Cryo](https://github.com/jakelequire/CryoLang) &nbsp;—&nbsp; A compiled, statically typed programming language
+A language I designed and built from scratch over the past two years. It's a systems programming language with C-like low-level control, but with a modern type system and a focus on safety and ergonomics. It compiles to native code using LLVM, and has a growing standard library. This project has been a huge learning experience for me, and I'm excited to continue developing it.
 
-[linkedin]: https://www.linkedin.com/in/jakelequire/
-[twitter]: https://twitter.com/Jake_LeQuire_
-[email]: mailto:jacoblequire@outlook.com
+---
+
+### Tech Stack
+
+**Systems**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-%23262D3A.svg?style=for-the-badge&logo=llvm&logoColor=white)
+
+**Web & Application**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+<p align="center">
+  <i>Open to software engineering roles — feel free to reach out.</i>
+</p>
